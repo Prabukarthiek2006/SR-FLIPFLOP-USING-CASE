@@ -81,11 +81,13 @@ DEVELOPED BY : PRABU KARTHIEK B  REGISTER NUMBER : 24010663
 
 
 **RTL LOGIC FOR FLIPFLOPS**
-![WhatsApp Image 2024-12-20 at 8 38 01 PM](https://github.com/user-attachments/assets/f08a8ea5-1471-4c84-a540-bd4d5bbeb1b3)
+![WhatsApp Image 2024-12-20 at 9 26 58 PM (1)](https://github.com/user-attachments/assets/d32a3b2b-e18a-4962-8061-1eda47981ee6)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-![WhatsApp Image 2024-12-20 at 8 38 00 PM](https://github.com/user-attachments/assets/e97e4a4c-a5e6-4870-b424-1ceade8bc326)
+![WhatsApp Image 2024-12-20 at 9 26 58 PM](https://github.com/user-attachments/assets/f37956ab-89d0-483b-b6f4-b4be1c1f0cbd)
+
 
 
 **RESULTS**
